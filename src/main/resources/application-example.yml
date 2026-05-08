@@ -19,6 +19,6 @@ mybatis-plus:
       id-type: auto
 
 deepseek:
-  api-key: your-deepseek-api-key
+  api-key: xxxxxxxxxxxxx
   base-url: https://api.deepseek.com
   model: deepseek-v4-flash
